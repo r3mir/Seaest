@@ -47,4 +47,5 @@ Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen bir issue
 ### Geliştiriciler
 - Rıdvan Emir Atalay - 222016730
 
-Bu README dosyası, projenin temel yapısı ve içeriği hakkında genel bir bilgi sağlamaktadır.
+Bu README dosyası, projenin temel yapısı ve içeriği hakkında genel bir bilgi sağlamaktadır.# Seaest
+# Seaest
